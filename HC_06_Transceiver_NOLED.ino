@@ -4,8 +4,9 @@
  * 
  *
  * SGuard Contorller source code
- * Build2gather competition
- * Licensed to Faculty of Engineering & Information Techonology, Southern University College
+ * Build2gether Inclusive Innovation Challenge
+ * Licensed to Department of Electrical & Electronic Engineering,
+ * Faculty of Engineering & Information Techonology, Southern University College
  *
 
  */
